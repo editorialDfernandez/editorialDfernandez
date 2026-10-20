@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://editorialdfernandez.github.io/">
-    <img src="https://editorialdfernandez.github.io/editorial/logo.webp" alt="Editorial D’Fernandez — visitar la página web" width="360" />
+    <img src="https://raw.githubusercontent.com/editorialDfernandez/editorialDfernandez.github.io/main/public/editorial/logo.webp" alt="Editorial D’Fernandez — visitar la página web" width="360" />
   </a>
 </p>
 
